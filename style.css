@@ -1,0 +1,32 @@
+.divprincipal {
+    display: flex;
+    float: inline-start;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center; 
+}
+
+.rojo {
+    background-color: red;
+    color: yellow;
+    height: 300px;
+    width: 300px ;
+    margin: 7px;
+   
+}
+
+.negro {
+    background-color: black;
+    color: white;
+    height: 300px;
+    width: 300px ;
+    margin: 7px;
+   
+}
+h2 {
+    font-size: 32px;
+    font-family: Georgia;
+    margin-bottom: 0px;
+    margin-top: 0px;
+  
+}
